@@ -63,10 +63,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Vullkano/Vullkano/output/snake.svg" alt="Snake animation" />
-
 ## My trophies:
 
 <div align="center">
