@@ -9,39 +9,85 @@
 - Atualmente estou a frequentar o  <a href="https://www.iscte-iul.pt/curso/297/mestrado-ciencia-de-dados" target="_blank"> Mestrado em Data Science no ISCTE </a>
 - Tenho como hobbies o gym, o karaté e videojogos
 
-## My stats: 
+### 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vullkano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Vullkano&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vullkano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="140" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=dracula&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vullkano&theme=dracula&show_icons=true&hide_title=true&count_private=true&bg_color=1e1f29" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vullkano&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_title=true&hide=css,html&bg_color=1e1f29" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vullkano&column=6&theme=dracula&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET,C,B&bg_color=1e1f29" alt="🏆 GitHub Profile Trophy" width="100%" />
+  </a>
+</p>
 
 ## I code with:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  </a>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" height="50" alt="r logo" />
+  </a>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  </a>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo" />
+  </a>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=r" height="50" alt="r logo"  />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+  </a>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50alt="amazonwebservices logo"  />
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  </a>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="50" alt="jupyter logo"  />
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  </a>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" alt="jetbrains logo"  />
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  </a>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" />
+  </a>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/jupyter/F37626" height="50" alt="jupyter logo" />
+  </a>
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo"  />
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" alt="jetbrains logo" />
+  </a>
+  <img width="20" />
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo" />
+  </a>
+  <img width="20" />
+  <a href="https://typst.app/" target="_blank">
+    <img src="https://cdn-1.webcatalog.io/catalog/typst/typst-icon-filled-256.webp?v=1714780823305" height="50" alt="typst logo" />
+  </a>
 </div>
+
 
 ## Social Media:
 
@@ -68,14 +114,6 @@
   <img alt="snake eating my contributions" src="https://github.com/Vullkano/Vullkano/blob/output/github-contribution-grid-snake.svg" />
   
   <br/>
-</div>
-
-###
-
-## My trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Vullkano&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
