@@ -1,38 +1,61 @@
-<h1> Olá, tudo bem? <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+<div align="center">
+  <h1> Olá, tudo bem? <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+</div>
 
-<p> Chamo-me Diogo Freitas e sou um cientista de dados! </p>
+<p align="center">
+  <b> Chamo-me <span style="color: #4CAF50;">Diogo Freitas</span> e sou um <span style="color: #F44336;">cientista de dados</span> apaixonado por desvendar insights a partir dos dados e aplicar soluções inovadoras! </b>
+</p>
 
-## About me:
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGqUPsKif9nDQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708562532809?e=1742428800&v=beta&t=HgDV_C4ZLWKvCNn63vTdy0iae5-ujSHVac21-RTl8hk" alt="Foto Perfil" width="250" />
+</p>
 
-- Sou de <b>Portugal</b> <img src="https://cdn-icons-png.flaticon.com/128/14009/14009762.png" width="20" />
-- <b>Paixões:</b> Machine Learning, Programação, Desafios e Novas Experiências
-- Atualmente estou a frequentar o  <a href="https://www.iscte-iul.pt/curso/297/mestrado-ciencia-de-dados" target="_blank"> Mestrado em Data Science no ISCTE </a>
-- Tenho como hobbies o gym, o karaté e videojogos
+<br></br>
 
-### 📊 GitHub Stats & Activity
+<div align="center">
+  <h2>🔍 Sobre mim 🔍</h2>
+</div>
+
+<ul>
+  <li> Sou de <b>Portugal</b> <img src="https://cdn-icons-png.flaticon.com/128/14009/14009762.png" width="20" /></li>
+  <li> <b>Paixões:</b> Machine Learning, Programação, Desafios e Novas Experiências</li>
+  <li> Atualmente estou a frequentar o <a href="https://www.iscte-iul.pt/curso/297/mestrado-ciencia-de-dados" target="_blank"><b> Mestrado em Data Science no ISCTE </b></a></li>
+  <li> Tenho como hobbies o <b>ginásio</b>, <b>karaté</b> e <b>videojogos</b></li>
+</ul>
+
+
+<br></br>
+
+<div align="center">
+  <h2>📊 Estatísticas e Atividade no GitHub 📊</h2>
+</div>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=dracula&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=dracula&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="80%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vullkano&theme=dracula&show_icons=true&hide_title=true&count_private=true&bg_color=1e1f29" alt="GitHub Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vullkano&theme=dracula&show_icons=true&hide_title=true&count_private=true&bg_color=1e1f29" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vullkano&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_title=true&hide=css,html&bg_color=1e1f29" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vullkano&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_title=true&hide=css,html&bg_color=1e1f29" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vullkano&column=6&theme=dracula&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET,C,B&bg_color=1e1f29" alt="🏆 GitHub Profile Trophy" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Vullkano&column=6&theme=dracula&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET,C,B&bg_color=1e1f29" alt="🏆 GitHub Profile Trophy" width="80%" />
   </a>
 </p>
 
-## I code with:
+<br></br>
+
+<div align="center">
+  <h2>💻 I code with: 💻</h2>
+</div>
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -88,8 +111,11 @@
   </a>
 </div>
 
+<br></br>
 
-## Social Media:
+<div align="center">
+  <h2>🌐 Social Media 🌐</h2>
+</div>
 
 <img align="right" height="170" src="https://i.imgur.com/HBGBrUZ.png"  />
 
@@ -107,13 +133,11 @@
   </a>
 </div>
 
-###
+<br></br>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas Contribuições 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/Vullkano/Vullkano/blob/output/github-contribution-grid-snake.svg" />
   
   <br/>
 </div>
-
-###
