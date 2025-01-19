@@ -31,22 +31,22 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=dracula&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="80%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vullkano&theme=dracula&show_icons=true&hide_title=true&count_private=true&bg_color=1e1f29" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vullkano&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_title=true&hide=css,html&bg_color=1e1f29" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a>
     <img src="https://github-profile-trophy.vercel.app/?username=Vullkano&column=6&theme=dracula&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET,C,B&bg_color=1e1f29" alt="🏆 GitHub Profile Trophy" width="80%" />
   </a>
 </p>
