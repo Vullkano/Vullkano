@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGqUPsKif9nDQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708562532809?e=1742428800&v=beta&t=HgDV_C4ZLWKvCNn63vTdy0iae5-ujSHVac21-RTl8hk" alt="Foto Perfil" width="250" />
+  <img src="docs\photo-Photoroom.jpg" alt="Foto Perfil" width="250" />
 </p>
 
 <br></br>
