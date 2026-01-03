@@ -82,7 +82,7 @@
   <a href="https://psnprofiles.com/vullkano">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="50" alt="PSN"/>
   </a>
-  <a href="https://myanimelist.net/profile/Vullkano">
+  <a href="https://myanimelist.net/animelist/Vullkano">
     <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" height="50" alt="MAL"/>
   </a>
 </div>
