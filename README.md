@@ -50,40 +50,41 @@
 <div align="center">
   <h2>📊 Estatísticas GitHub</h2>
   <a href="https://github.com/Vullkano">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vullkano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vullkano's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vullkano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Vullkano&theme=tokyonight&hide_border=true" alt="Streak" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api?username=Vullkano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vullkano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Langs" />
   </a>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=one-dark-pro&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=one-dark-pro&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
   <h2>🏆 Troféus</h2>
-  <img src="https://github-trophies.vercel.app/?username=Vullkano&column=7&theme=dracula&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET,C,B" alt="Trophy" width="90%" />
+  <img src="https://github-trophies.vercel.app/?username=Vullkano&column=7&theme=dracula&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET,C,B" alt="Trophy" width="100%" />
 </div>
 
 <div align="center">
   <h2>🌐 Social Media</h2>
 
   <a href="mailto:diogo.alonso.freitas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="100" alt="Gmail"/>
   </a>
   <a href="mailto:daafs@iscte-iul.pt">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="50" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="100" alt="Outlook"/>
   </a>
   <a href="https://www.linkedin.com/in/diogofreitas2099/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" alt="LinkedIn"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561198912561973/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="50" alt="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="100" alt="Steam"/>
   </a>
   <a href="https://psnprofiles.com/vullkano">
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="50" alt="PSN"/>
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="100" alt="PSN"/>
   </a>
   <a href="https://myanimelist.net/animelist/Vullkano">
-    <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" height="50" alt="MAL"/>
+    <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" height="100" alt="MAL"/>
   </a>
 </div>
 
