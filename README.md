@@ -50,8 +50,8 @@
 <div align="center">
   <h2>📊 Estatísticas GitHub</h2>
   <a href="https://github.com/Vullkano">
-  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=Vullkano&theme=one-dark-pro&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vullkano&layout=compact&langs_count=6&card_width=320&theme=one-dark-pro&hide_title=false&hide=css,html" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vullkano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vullkano's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vullkano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=one-dark-pro&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="90%" />
