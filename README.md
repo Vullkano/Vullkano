@@ -50,8 +50,8 @@
 <div align="center">
   <h2>📊 Estatísticas GitHub</h2>
   <img height="128" src="https://streak-stats.demolab.com/?user=Vullkano&theme=tokyonight&hide_border=true" alt="Streak" />
-  <img height="128" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vullkano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img height="128" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vullkano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Langs" />
+  <img height="128" src="https://github-readme-stats-fast.vercel.app/api?username=Vullkano&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="128" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vullkano&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Langs" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vullkano&theme=one-dark-pro&bg_color=1e1f29&color=ffffff&line=50fa7b&point=8be9fd" alt="Activity Graph" width="100%" />
 </div>
